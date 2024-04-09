@@ -7,8 +7,7 @@ Motivated Junior Data Analyst seeking to use strong data analysis skills and exp
 
 ## Education
 
-- **Certifications:** CCNA: Introduction to Networks, Introduction to Cyber Security,
-- **Certifications:** Cisco IT Essentials
+- **Certifications:** CCNA: Introduction to Networks, Introduction to Cyber Security,Cisco IT Essentials
 - **Diploma:** IT Software Development | Nelson Mandela University 
 - **Higher Certificate:** IT (User Support) | Nelson Mandela University(Cum Laude Pass)
 

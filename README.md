@@ -1,29 +1,54 @@
-### Hi there 👋
+# Mashudu Mulaudzi - Data Analyst
 
-#### 👋 Hi, I'm @MashuduK
-A passionate junior data analyst always eager to learn and grow. My love for numbers and analytics drives me to find insights that create real impact.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-username)
+[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-website.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mashudukmulaudzi@gmail.com)
 
-#### 👀 I'm interested in...
-- Data analysis and visualization
-- Business intelligence
-- Data mining and machine learning
-- Data storytelling and communication
+Motivated Junior Data Analyst seeking to use strong data analysis skills and experience with Python, SQL, and programming to provide valuable insights and help drive business success in a fast-paced workplace. Eager to learn and apply latest techniques.
 
-#### 🌱 I'm currently learning...
-- Advanced SQL for data exploration
-- Python for data analysis
-- Tableau for data visualization
-- Machine learning models and techniques
+## Education
 
-#### 💞️ I'm looking to collaborate on...
-- Data analysis projects
-- Data visualization dashboards
-- Developing data-driven solutions
+- **Certifications:** CCNA: Introduction to Networks, Introduction to Cyber Security, Design Thinking IT Software Development | Nelson Mandela University (Cum Laude Pass)
+- **Certifications:** Cisco IT Essentials
+- **Higher Certificate:** IT (User Support) | Nelson Mandela University
 
-#### 📫 How to reach me...
-- Email: mashudukmulaudzi@gmail.com
-- LinkedIn: www.linkedin.com/in/mashudu-k-mulaudzi
+## Skills
 
-#### 😄 Pronouns: He/Him
+### Technical Skills
 
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
+[![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=mysql&logoColor=white)]()
+[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
+[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)]()
+[![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)]()
+[![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)]()
 
+### Soft Skills
+
+[![Time Management](https://img.shields.io/badge/Time%20Management-4285F4?style=for-the-badge)]()
+[![Problem Solving](https://img.shields.io/badge/Problem%20Solving-4285F4?style=for-the-badge)]()
+[![Active Listening](https://img.shields.io/badge/Active%20Listening-4285F4?style=for-the-badge)]()
+[![Efficiency](https://img.shields.io/badge/Efficiency-4285F4?style=for-the-badge)]()
+[![Critical Thinking](https://img.shields.io/badge/Critical%20Thinking-4285F4?style=for-the-badge)]()
+[![Customer Service](https://img.shields.io/badge/Customer%20Service-4285F4?style=for-the-badge)]()
+
+## Work Experience
+
+**Software Intern** @ McTech Solutions _(2018 - 2019)_
+- Contributed to various stages of the software development lifecycle, including coding, testing, and debugging.
+
+**Student Recruiter** @ McTech Solutions _(2019 - 2020)_
+- Helped look for students requiring tutors and signed them up for relevant course assistance.
+- Assisted students in applying for university admission.
+- Tutored students in Mathematics and Science subjects.
+
+**Graduate Development** @ UWC
+- Web Development (ASP.NET, HTML, CSS, Bootstrap)
+- Programming (Python, C#, JavaScript)
+- Data Analysis (SQL, Python)
+
+## References
+
+Available upon request.

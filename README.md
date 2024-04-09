@@ -8,9 +8,10 @@ Motivated Junior Data Analyst seeking to use strong data analysis skills and exp
 
 ## Education
 
-- **Certifications:** CCNA: Introduction to Networks, Introduction to Cyber Security, Design Thinking IT Software Development | Nelson Mandela University (Cum Laude Pass)
+- **Certifications:** CCNA: Introduction to Networks, Introduction to Cyber Security,
 - **Certifications:** Cisco IT Essentials
-- **Higher Certificate:** IT (User Support) | Nelson Mandela University
+- **Diploma:** IT Software Development | Nelson Mandela University 
+- **Higher Certificate:** IT (User Support) | Nelson Mandela University(Cum Laude Pass)
 
 ## Skills
 
@@ -34,21 +35,4 @@ Motivated Junior Data Analyst seeking to use strong data analysis skills and exp
 [![Critical Thinking](https://img.shields.io/badge/Critical%20Thinking-4285F4?style=for-the-badge)]()
 [![Customer Service](https://img.shields.io/badge/Customer%20Service-4285F4?style=for-the-badge)]()
 
-## Work Experience
 
-**Software Intern** @ McTech Solutions _(2018 - 2019)_
-- Contributed to various stages of the software development lifecycle, including coding, testing, and debugging.
-
-**Student Recruiter** @ McTech Solutions _(2019 - 2020)_
-- Helped look for students requiring tutors and signed them up for relevant course assistance.
-- Assisted students in applying for university admission.
-- Tutored students in Mathematics and Science subjects.
-
-**Graduate Development** @ UWC
-- Web Development (ASP.NET, HTML, CSS, Bootstrap)
-- Programming (Python, C#, JavaScript)
-- Data Analysis (SQL, Python)
-
-## References
-
-Available upon request.

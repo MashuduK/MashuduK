@@ -26,4 +26,4 @@ A passionate junior data analyst always eager to learn and grow. My love for num
 
 #### 😄 Pronouns: He/Him
 
-#### ⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes!
+

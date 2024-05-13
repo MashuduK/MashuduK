@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/www.linkedin.com/in/mashudu-k-mulaudzi)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mashudukmulaudzi@gmail.com)
 
-Motivated Junior Data Analyst seeking to use strong data analysis skills and experience with Python, SQL, and programming to provide valuable insights and help drive business success in a fast-paced workplace. Eager to learn and apply latest techniques.
+Motivated Junior Data Analyst with  data analysis skills and experience with Python, SQL, and programming to provide valuable insights and help drive business success in a fast-paced workplace. Eager to learn and apply latest techniques.
 
 ## Education
 

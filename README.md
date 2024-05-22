@@ -18,7 +18,12 @@ Motivated Technical Support Specialist and Data Analyst with strong troubleshoot
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)]()
 [![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)]()
+[![AnyDesk](https://img.shields.io/badge/AnyDesk-DC2727?style=for-the-badge&logo=anydesk&logoColor=white)]()
+[![Zoho CRM](https://img.shields.io/badge/Zoho_CRM-4385F4?style=for-the-badge&logo=zoho&logoColor=white)]()
+[![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)]()
 [![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)]()
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)]()
+[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)]()
 
 #### Soft Skills
 
